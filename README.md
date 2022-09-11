@@ -13,16 +13,18 @@
 
 命令执行（主要是利用cmd去执行，powershell查杀比较严，故没有用powershell去执行命令）
 
+![2](https://user-images.githubusercontent.com/44337217/189516955-4a0820eb-0a82-41e3-b1bc-1c700892c88f.png)
 
 
 增加Bypass模式 （主要利用 /check?cmd=ping/../进行部分杀软的绕过）
 
 目标环境开启某数字安全卫士和杀毒软件 采用命令执行会被直接拦截
 
-
+![3](https://user-images.githubusercontent.com/44337217/189516958-12ed1e49-bec8-4228-9ec0-9c53f3a53783.png)
 
 采用bypass模式可进行绕过 执行部分命令
 
+![4](https://user-images.githubusercontent.com/44337217/189516960-55944df7-9270-4b69-92a7-a53a682d4f81.png)
 
 
 # 参考链接
