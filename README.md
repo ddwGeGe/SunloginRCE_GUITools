@@ -8,21 +8,22 @@
 
 漏洞检测 
 
+![1](https://user-images.githubusercontent.com/44337217/189516819-8066e2df-d3c0-4799-83ac-9dc4d6f1e395.png)
 
 
 命令执行（主要是利用cmd去执行，powershell查杀比较严，故没有用powershell去执行命令）
 
-IMG/1.png
+
 
 增加Bypass模式 （主要利用 /check?cmd=ping/../进行部分杀软的绕过）
 
 目标环境开启某数字安全卫士和杀毒软件 采用命令执行会被直接拦截
 
-https://github.com/ddwGeGe/SunloginRCE_GUITools/blob/master/IMG/3.png
+
 
 采用bypass模式可进行绕过 执行部分命令
 
-https://github.com/ddwGeGe/SunloginRCE_GUITools/blob/master/IMG/4.png
+
 
 # 参考链接
 
