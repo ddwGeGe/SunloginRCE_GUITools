@@ -8,11 +8,11 @@
 
 漏洞检测 
 
-https://github.com/ddwGeGe/SunloginRCE_GUITools/blob/master/IMG/1.png
+
 
 命令执行（主要是利用cmd去执行，powershell查杀比较严，故没有用powershell去执行命令）
 
-https://github.com/ddwGeGe/SunloginRCE_GUITools/blob/master/IMG/2.png
+IMG/1.png
 
 增加Bypass模式 （主要利用 /check?cmd=ping/../进行部分杀软的绕过）
 
